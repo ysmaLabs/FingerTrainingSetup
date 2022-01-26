@@ -54,9 +54,7 @@ If you want to access to all the parts at once click here [3DPartsFull(20220126)
 
 **Result**
 
-![FingerBoardSupport_BoltGrid](https://user-images.githubusercontent.com/91880074/151002426-70b08f72-409b-47dc-bf70-18270fae5f04.png)
-![FingerBoardSupport_ScrewInNuts](https://user-images.githubusercontent.com/91880074/151170593-bae273f7-035d-4bf9-acfc-3214553bd206.png)
-![FingerBoardSupport_ScrewInBoltFront](https://user-images.githubusercontent.com/91880074/151002467-1b9bf714-1bcb-40ec-9c38-276a0e19370f.png)
+
 4. Fit and screw the 1820mm 2x4 columns in to the Sawhorse brackets.
 5. From the bottom of each 1820mm 2x4 columns measure 810mm and mark a center cross.
 6. Drill a 12mm hole in each of them.
@@ -69,7 +67,7 @@ If you want to access to all the parts at once click here [3DPartsFull(20220126)
 
 **Result**
 
-![FingerBoardSupport_SawHorse](https://user-images.githubusercontent.com/91880074/151171270-ec2efaa8-87e4-453b-a83c-15621c68d423.png)
+
 10. Take the 600mm boards, match the holes with the ones on the Sawhorse assembly and insert the M12 bolt with a washer. Then place another washer and secure it with the provided M12 nut.
 11. Place the other 1200mm 2x4 column horizontally in the middle of the 2 600mm boards you just installed.
 12. Mark its place and trace a center line to locate the middle bar support as shown in the following images.
@@ -85,4 +83,12 @@ If you want to access to all the parts at once click here [3DPartsFull(20220126)
 
 Cheers.
 
+![FingerBoardSupport_BoltGrid](https://user-images.githubusercontent.com/91880074/151002426-70b08f72-409b-47dc-bf70-18270fae5f04.png)
+![FingerBoardSupport_ScrewInNuts](https://user-images.githubusercontent.com/91880074/151170593-bae273f7-035d-4bf9-acfc-3214553bd206.png)
+![FingerBoardSupport_ScrewInBoltFront](https://user-images.githubusercontent.com/91880074/151002467-1b9bf714-1bcb-40ec-9c38-276a0e19370f.png)
 
+![FingerBoardSupport_SawHorse](https://user-images.githubusercontent.com/91880074/151171270-ec2efaa8-87e4-453b-a83c-15621c68d423.png)
+
+![MiddleBarSupport(Fitting)](https://user-images.githubusercontent.com/91880074/151002512-eaee4721-4d9e-4cc8-b4fa-35fe39ddd38f.png)
+![FingerBoardSupport_BoltsView](https://user-images.githubusercontent.com/91880074/151002429-3cd87395-4b91-4126-9b2b-a19c3fecfbef.png)
+![FingerBoardSupport_MiddleBarSupport](https://user-images.githubusercontent.com/91880074/151002450-c878c75d-cf1f-4f75-acd6-1eb7ab449556.png)
