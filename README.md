@@ -51,7 +51,9 @@ If you want to access to all the parts at once click here [3DPartsFull(20220126)
 1. Take one of the 2x4 1200mm cut and draw a 2 x 18 grid of 50x50mm in the center of the wooden piece.
 2. In each corner of the grid drill a 9mm hole.
 3. Screw the M6 insert nuts in the holes you just made **I recommend you to use a drill, impact drill or similar**.
-#### Result
+
+**Result**
+
 ![FingerBoardSupport_BoltGrid](https://user-images.githubusercontent.com/91880074/151002426-70b08f72-409b-47dc-bf70-18270fae5f04.png)
 ![FingerBoardSupport_ScrewInNuts](https://user-images.githubusercontent.com/91880074/151170593-bae273f7-035d-4bf9-acfc-3214553bd206.png)
 ![FingerBoardSupport_ScrewInBoltFront](https://user-images.githubusercontent.com/91880074/151002467-1b9bf714-1bcb-40ec-9c38-276a0e19370f.png)
@@ -64,11 +66,16 @@ If you want to access to all the parts at once click here [3DPartsFull(20220126)
 8. In each 600mm 2x4 cuts measure 30mm and mark a center cross in each end.
 9. Drill a 12mm hole in each of them.
 10. Bite into each end of the insert nuts board with the Sawhorse assembly you made in point 4.
-#### Result
+
+**Result**
+
 ![FingerBoardSupport_SawHorse](https://user-images.githubusercontent.com/91880074/151171270-ec2efaa8-87e4-453b-a83c-15621c68d423.png)
 10. Take the 600mm boards, match the holes with the ones on the Sawhorse assembly and insert the M12 bolt with a washer. Then place another washer and secure it with the provided M12 nut.
 11. Place the other 1200mm 2x4 column horizontally in the middle of the 2 600mm boards you just installed.
 12. Mark its place and trace a center line to locate the middle bar support as shown in the following images.
+
+**Result**
+
 ![MiddleBarSupport(Fitting)](https://user-images.githubusercontent.com/91880074/151002512-eaee4721-4d9e-4cc8-b4fa-35fe39ddd38f.png)
 ![FingerBoardSupport_BoltsView](https://user-images.githubusercontent.com/91880074/151002429-3cd87395-4b91-4126-9b2b-a19c3fecfbef.png)
 ![FingerBoardSupport_MiddleBarSupport](https://user-images.githubusercontent.com/91880074/151002450-c878c75d-cf1f-4f75-acd6-1eb7ab449556.png)
