@@ -1,6 +1,17 @@
-# FingerTrainingSetup
+# Finger Training Setup
 
-## Hola
+## Final assembly
+
+![FingerBoardSupportFull](https://user-images.githubusercontent.com/91880074/151002493-9b0aa966-812c-48ed-bc1f-5644895ca89d.png)
+
+### Materials needed
+#### Home center 
+
+1. 2x4 Wooden column 1820mm x 4
+2. 2x4 Wooden column 3650mm x 1: cut it in
+2.1. 2 pieces of 1200mm and
+2.2. pieces of 600mm.
+3. 
 
 ![Crimp5mm](https://user-images.githubusercontent.com/91880074/151002384-051791a4-d1a8-47de-ae95-d234dca1a239.png)
 ![Crimp5mmNoFillet](https://user-images.githubusercontent.com/91880074/151002397-9890a0dd-7baf-49c1-9972-9b94a7d8ec5a.png)
@@ -13,7 +24,7 @@
 ![FingerBoardSupport_ScrewInBoltFront](https://user-images.githubusercontent.com/91880074/151002467-1b9bf714-1bcb-40ec-9c38-276a0e19370f.png)
 ![FingerBoardSupport_ScrewInNuts](https://user-images.githubusercontent.com/91880074/151002477-551ae821-32d5-491e-85b9-6ff38fe4c10d.png)
 ![FingerBoardSupportFront](https://user-images.githubusercontent.com/91880074/151002487-155e5db9-a670-492e-9fc0-ec8623dcc984.png)
-![FingerBoardSupportFull](https://user-images.githubusercontent.com/91880074/151002493-9b0aa966-812c-48ed-bc1f-5644895ca89d.png)
+
 ![Hexbolt_M12X140FullSet](https://user-images.githubusercontent.com/91880074/151002502-64f4b78c-815c-4e70-b258-02f86694fcce.png)
 ![MiddleBarSupport(Fitting)](https://user-images.githubusercontent.com/91880074/151002512-eaee4721-4d9e-4cc8-b4fa-35fe39ddd38f.png)
 ![PullUpHandle](https://user-images.githubusercontent.com/91880074/151002520-04f20966-3636-4000-b801-be0457c8ed2e.png)
