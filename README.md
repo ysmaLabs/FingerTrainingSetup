@@ -5,8 +5,8 @@
 ![FingerBoardSupportFull](https://user-images.githubusercontent.com/91880074/151002493-9b0aa966-812c-48ed-bc1f-5644895ca89d.png)
 ![FingerBoardSupportFront](https://user-images.githubusercontent.com/91880074/151002487-155e5db9-a670-492e-9fc0-ec8623dcc984.png)
 
-### Materials needed
-#### Home center 
+## Materials needed
+### Home center 
 
 1. 2x4 Wooden column 1820mm **x 4**.
 2. 2x4 Wooden column 3650mm **x 1**: cut it in **2 pieces of 1200mm** and **2 pieces of 600mm**.
