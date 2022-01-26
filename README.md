@@ -56,7 +56,7 @@ If you want to access to all the parts at once click here [3DPartsFull(20220126)
 ![FingerBoardSupport_ScrewInNuts](https://user-images.githubusercontent.com/91880074/151170593-bae273f7-035d-4bf9-acfc-3214553bd206.png)
 ![FingerBoardSupport_ScrewInBoltFront](https://user-images.githubusercontent.com/91880074/151002467-1b9bf714-1bcb-40ec-9c38-276a0e19370f.png)
 4. Fit and screw the 1820mm 2x4 columns in to the Sawhorse brackets.
-5. From the bottom of each 1820mm 2x4 columns measure 810mm and mark a center cross
+5. From the bottom of each 1820mm 2x4 columns measure 810mm and mark a center cross.
 6. Drill a 12mm hole in each of them.
 7. In each 600mm 2x4 cuts measure 30mm and mark a center cross in each end.
 8. Drill a 12mm hole in each of them.
