@@ -71,10 +71,7 @@ If you want to access to all the parts at once click here [3DPartsFull(20220126)
 
 **Result**
 
-![MiddleBarSupport(Fitting)](https://user-images.githubusercontent.com/91880074/151002512-eaee4721-4d9e-4cc8-b4fa-35fe39ddd38f.png)
-![FingerBoardSupport_BoltsView](https://user-images.githubusercontent.com/91880074/151002429-3cd87395-4b91-4126-9b2b-a19c3fecfbef.png)
-![FingerBoardSupport_MiddleBarSupport](https://user-images.githubusercontent.com/91880074/151002450-c878c75d-cf1f-4f75-acd6-1eb7ab449556.png)
-**This will help you to work on your dips while you are not training your fingers ;)**
+
 13. Print the holds you want to install on the support.
 14. Fit them with the M6x70mm countersunk bolts and you are setup for training.
 
@@ -89,3 +86,8 @@ Cheers.
 ![MiddleBarSupport(Fitting)](https://user-images.githubusercontent.com/91880074/151002512-eaee4721-4d9e-4cc8-b4fa-35fe39ddd38f.png)
 ![FingerBoardSupport_BoltsView](https://user-images.githubusercontent.com/91880074/151002429-3cd87395-4b91-4126-9b2b-a19c3fecfbef.png)
 ![FingerBoardSupport_MiddleBarSupport](https://user-images.githubusercontent.com/91880074/151002450-c878c75d-cf1f-4f75-acd6-1eb7ab449556.png)
+
+![MiddleBarSupport(Fitting)](https://user-images.githubusercontent.com/91880074/151002512-eaee4721-4d9e-4cc8-b4fa-35fe39ddd38f.png)
+![FingerBoardSupport_BoltsView](https://user-images.githubusercontent.com/91880074/151002429-3cd87395-4b91-4126-9b2b-a19c3fecfbef.png)
+![FingerBoardSupport_MiddleBarSupport](https://user-images.githubusercontent.com/91880074/151002450-c878c75d-cf1f-4f75-acd6-1eb7ab449556.png)
+**This will help you to work on your dips while you are not training your fingers ;)**
