@@ -45,9 +45,15 @@
 
 If you want to access to all the parts at once click here [3DPartsFull(20220126).zip](https://github.com/ysmaLabs/FingerTrainingSetup/files/7941934/3DPartsFull.20220126.zip)
 
+## Assembly
 
+1. Take one of the 2x4 1200mm cut and draw a 2 x 18 grid of 50x50mm in the center of the wooden piece.
+2. In each corner of the grid drill a 9mm hole.
+3. Screw the M6 insert nuts in the holes you just made **I recommend you to use a drill, impact drill or similar**.
+##### Result
 ![FingerBoardSupport_BoltGrid](https://user-images.githubusercontent.com/91880074/151002426-70b08f72-409b-47dc-bf70-18270fae5f04.png)
 ![FingerBoardSupport_BoltsView](https://user-images.githubusercontent.com/91880074/151002429-3cd87395-4b91-4126-9b2b-a19c3fecfbef.png)
+
 ![FingerBoardSupport_MiddleBarSupport](https://user-images.githubusercontent.com/91880074/151002450-c878c75d-cf1f-4f75-acd6-1eb7ab449556.png)
 ![FingerBoardSupport_ScrewInBoltFront](https://user-images.githubusercontent.com/91880074/151002467-1b9bf714-1bcb-40ec-9c38-276a0e19370f.png)
 ![FingerBoardSupportFront](https://user-images.githubusercontent.com/91880074/151002487-155e5db9-a670-492e-9fc0-ec8623dcc984.png)
