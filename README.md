@@ -58,9 +58,12 @@ If you want to access to all the parts at once click here [3DPartsFull(20220126)
 4. Fit and screw the 1820mm 2x4 columns in to the Sawhorse brackets.
 5. From the bottom of each 1820mm 2x4 columns measure 810mm and mark a center cross.
 6. Drill a 12mm hole in each of them.
-7. In each 600mm 2x4 cuts measure 30mm and mark a center cross in each end.
-8. Drill a 12mm hole in each of them.
-9. Bite into each end of the insert nuts board with the Sawhorse assembly you made in point 4.
+7. M6 insert nut 20mm **minimun x 36**.
+8. M6x70mm countersunk bolts **minimum x 36**.
+9. 3.3x25mm wood screws pack **x 1**.
+8. In each 600mm 2x4 cuts measure 30mm and mark a center cross in each end.
+9. Drill a 12mm hole in each of them.
+10. Bite into each end of the insert nuts board with the Sawhorse assembly you made in point 4.
 #### Result
 ![FingerBoardSupport_SawHorse](https://user-images.githubusercontent.com/91880074/151171270-ec2efaa8-87e4-453b-a83c-15621c68d423.png)
 10. Take the 600mm boards, match the holes with the ones on the Sawhorse assembly and insert the M12 bolt with a washer. Then place another washer and secure it with the provided M12 nut.
