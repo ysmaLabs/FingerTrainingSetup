@@ -43,7 +43,7 @@
 ![Crimp5mm](https://user-images.githubusercontent.com/91880074/151002384-051791a4-d1a8-47de-ae95-d234dca1a239.png)
 [Crimp5mm.zip](https://github.com/ysmaLabs/FingerTrainingSetup/files/7941931/Crimp5mm.zip)
 
-If you want to access to all the parts at once click [here]([3DPartsFull(20220126).zip](https://github.com/ysmaLabs/FingerTrainingSetup/files/7941934/3DPartsFull.20220126.zip)):
+If you want to access to all the parts at once click here [3DPartsFull(20220126).zip](https://github.com/ysmaLabs/FingerTrainingSetup/files/7941934/3DPartsFull.20220126.zip)
 
 
 ![FingerBoardSupport_BoltGrid](https://user-images.githubusercontent.com/91880074/151002426-70b08f72-409b-47dc-bf70-18270fae5f04.png)
