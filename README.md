@@ -14,7 +14,7 @@
 ![FingerBoardSupport_SawHorse](https://user-images.githubusercontent.com/91880074/151002464-d71c0570-8fba-4696-b963-788a79efa4ac.png)
 4. Rubber Sawhorse feet for 2x4 columns pack of 2 **x 2** 
 ![FingerBoardSupport_FootView](https://user-images.githubusercontent.com/91880074/151002437-01c45445-3eea-4f67-b995-65515507a827.png)
-5. M12 hex bolt with nut **x 2**.
+5. M12x140mm hex bolt with nut **x 2**.
 6. M12 washers 1x25mm pack **x 1**.
 ![Hexbolt_M12X140FullSet](https://user-images.githubusercontent.com/91880074/151002502-64f4b78c-815c-4e70-b258-02f86694fcce.png)
 7. M6 insert nut 20mm **minimun x 36**.
@@ -67,7 +67,7 @@ If you want to access to all the parts at once click here [3DPartsFull(20220126)
 **Result**
 ![FingerBoardSupport_SawHorse](https://user-images.githubusercontent.com/91880074/151171270-ec2efaa8-87e4-453b-a83c-15621c68d423.png)
 
-10. Take the 600mm boards, match the holes with the ones on the Sawhorse assembly and insert the M12 bolt with a washer. Then place another washer and secure it with the provided M12 nut.
+10. Take the 600mm boards, match the holes with the ones on the Sawhorse assembly and insert the M12x140mm bolt with a washer. Then place another washer and secure it with the provided M12 nut.
 11. Place the other 1200mm 2x4 column horizontally in the middle of the 2 600mm boards you just installed.
 12. Mark its place and trace a center line to locate the middle bar support (3D printed parts) as shown in the following images.
 
