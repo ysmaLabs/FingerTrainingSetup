@@ -14,7 +14,7 @@
 ![FingerBoardSupport_SawHorse](https://user-images.githubusercontent.com/91880074/151002464-d71c0570-8fba-4696-b963-788a79efa4ac.png)
 4. Rubber Sawhorse feet for 2x4 columns pack of 2 **x 2** 
 ![FingerBoardSupport_FootView](https://user-images.githubusercontent.com/91880074/151002437-01c45445-3eea-4f67-b995-65515507a827.png)
-5. M12x140mm hex bolt with nut **x 2**.
+5. M12x140mm hex bolt with nut **x 4**.
 6. M12 washers 1x25mm pack **x 1**.
 ![Hexbolt_M12X140FullSet](https://user-images.githubusercontent.com/91880074/151002502-64f4b78c-815c-4e70-b258-02f86694fcce.png)
 7. M6 insert nut 20mm **minimun x 36**.
