@@ -54,9 +54,6 @@ If you want to access to all the parts at once click here [3DPartsFull(20220126)
 
 **Result**
 ![FingerBoardSupport_BoltGrid](https://user-images.githubusercontent.com/91880074/151002426-70b08f72-409b-47dc-bf70-18270fae5f04.png)
-
-[HalfSupport.zip](https://github.com/ysmaLabs/FingerTrainingSetup/files/8141855/HalfSupport.zip)
-
 ![FingerBoardSupport_ScrewInNuts](https://user-images.githubusercontent.com/91880074/151170593-bae273f7-035d-4bf9-acfc-3214553bd206.png)
 ![FingerBoardSupport_ScrewInBoltFront](https://user-images.githubusercontent.com/91880074/151002467-1b9bf714-1bcb-40ec-9c38-276a0e19370f.png)
 
@@ -76,6 +73,8 @@ If you want to access to all the parts at once click here [3DPartsFull(20220126)
 
 **Result**
 ![MiddleBarSupport(Fitting)](https://user-images.githubusercontent.com/91880074/151002512-eaee4721-4d9e-4cc8-b4fa-35fe39ddd38f.png)
+[HalfSupport.zip](https://github.com/ysmaLabs/FingerTrainingSetup/files/8141855/HalfSupport.zip)
+
 ![FingerBoardSupport_BoltsView](https://user-images.githubusercontent.com/91880074/151002429-3cd87395-4b91-4126-9b2b-a19c3fecfbef.png)
 ![FingerBoardSupport_MiddleBarSupport](https://user-images.githubusercontent.com/91880074/151002450-c878c75d-cf1f-4f75-acd6-1eb7ab449556.png)
 **This will help you to work on your dips while you are not training your fingers ;)**
