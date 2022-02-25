@@ -1,5 +1,9 @@
 # Finger Training Setup
 
+
+## Improvements
+
+
 ## Final assembly
 
 ![FingerBoardSupportFull](https://user-images.githubusercontent.com/91880074/151002493-9b0aa966-812c-48ed-bc1f-5644895ca89d.png)
@@ -83,6 +87,3 @@ If you want to access to all the parts at once click here [3DPartsFull(20220126)
 14. Fit them with the M6x70mm countersunk bolts and you are setup for training.
 
 Cheers.
-
-# Improvements
-
