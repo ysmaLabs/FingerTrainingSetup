@@ -83,3 +83,6 @@ If you want to access to all the parts at once click here [3DPartsFull(20220126)
 14. Fit them with the M6x70mm countersunk bolts and you are setup for training.
 
 Cheers.
+
+# Improvements
+
