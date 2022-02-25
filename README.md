@@ -3,6 +3,9 @@
 
 ## Improvements
 
+Place 4 Half supports on each side of the SawHorse supports as we can see in the picture below.
+
+![SawHorseSupportImprovement](https://user-images.githubusercontent.com/91880074/155738113-f0340ee4-7ac2-46fa-9baf-e68203b4c996.png)
 
 ## Final assembly
 
