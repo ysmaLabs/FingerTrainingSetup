@@ -54,6 +54,9 @@ If you want to access to all the parts at once click here [3DPartsFull(20220126)
 
 **Result**
 ![FingerBoardSupport_BoltGrid](https://user-images.githubusercontent.com/91880074/151002426-70b08f72-409b-47dc-bf70-18270fae5f04.png)
+
+[HalfSupport.zip](https://github.com/ysmaLabs/FingerTrainingSetup/files/8141855/HalfSupport.zip)
+
 ![FingerBoardSupport_ScrewInNuts](https://user-images.githubusercontent.com/91880074/151170593-bae273f7-035d-4bf9-acfc-3214553bd206.png)
 ![FingerBoardSupport_ScrewInBoltFront](https://user-images.githubusercontent.com/91880074/151002467-1b9bf714-1bcb-40ec-9c38-276a0e19370f.png)
 
